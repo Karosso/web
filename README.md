@@ -2,7 +2,7 @@
 
 # TÔ DENTRO
 
-# ![Logo](src/assets/icons/logo.png)
+# ![Logo](src/assets/icons/logo2.png)
 
 Front-End Web, destinado aos totens do projeto Tô DENTRO do time 272 para o Hackaton CCR 2
 
